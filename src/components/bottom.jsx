@@ -5,8 +5,6 @@ import "../styles/bottom.css"; // Importing the CSS file
 function Bottom() {
   return (
     <div className="bottom">
-      <div className="bottom-links"></div>
-
       <div className="bottom-about">
         <div className="bottom-about-title">Why do hire me?</div>
         <div className="bottom-about-text">
