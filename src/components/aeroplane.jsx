@@ -3,9 +3,9 @@ import "../styles/aeroplane.css";
 import { Plane } from "lucide-react"; // ✅ Fix applied here
 
 const steps = [
-  { text: "Intern , High Court , Saket", side: "left" },
+  { text: "Intern , District Court ", side: "left" },
   { text: "3rd year B.A,LLB , Asian Law College", side: "right" },
-  { text: "Intern , District Court ,Bihar", side: "left" },
+  { text: "Intern , District Court ", side: "left" },
   { text: "2nd year B.A,LLB , Asian Law College, ", side: "right" },
 
   {

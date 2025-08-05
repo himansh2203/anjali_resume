@@ -78,7 +78,7 @@ function AboutUs() {
         </h2>
         <ul>
           <li>
-            <strong>Internship – High Court</strong>
+            <strong>Internship – District Court</strong>
             <br />
             Observed court proceedings, legal drafting, and case file management
             <span className="date"> </span>
